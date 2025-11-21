@@ -11,7 +11,7 @@ setup(
     include_package_data=True,
     entry_points={
         "tutor.plugin.v1": [
-            "cors = cors-plugin.plugin"
+            "cors = cors_plugin.plugin"
         ]
     },
 )
